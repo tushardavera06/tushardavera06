@@ -1,6 +1,6 @@
 <!-- Banner (You can replace with your own banner URL) -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x220?text=Tushar+Davera+06+-+Official+Profile" alt="Banner" />
+  <img src="https://github.com/tushardavera06/tushardavera06/blob/main/media/header%20(1).png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tushar Davera</h1>
