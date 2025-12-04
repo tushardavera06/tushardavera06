@@ -3,9 +3,6 @@
   <img src="https://github.com/tushardavera06/tushardavera06/blob/main/media/header%20(1).png" alt="Banner" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tushardavera06/tushadavera06/main/media/programmer.gif" width="350" alt="programmer animation" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Tushar Davera</h1>
 <h3 align="center">Developer • Tech Enthusiast • Bot Builder 🚀</h3>
